@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Typing SVG Header - reliable, no broken images -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Hi+👋+I'm+Dinesh+Pandiyan;Aspiring+AI+Engineer+🤖;Building+RAG+%26+LLM+Systems+🚀;Prompt+Engineering+%7C+Python+%7C+MLOps" alt="Typing SVG" />
+<!-- Typing animation - GitHub trusted source -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Hi+👋+I'm+Dinesh+Pandiyan;Aspiring+AI+Engineer+🤖;Building+RAG+%26+LLM+Systems+🚀;Prompt+Engineering+%7C+Python+%7C+MLOps" alt="Typing SVG" />
 
 <br/>
 

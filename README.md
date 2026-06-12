@@ -1,91 +1,129 @@
-<div align="center">
+<!-- GitHub Profile README — Dineshpandiyan-DP -->
 
-<!-- Typing animation - GitHub trusted source -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=Hi+👋+I'm+Dinesh+Pandiyan;Aspiring+AI+Engineer+🤖;Building+RAG+%26+LLM+Systems+🚀;Prompt+Engineering+%7C+Python+%7C+MLOps" alt="Typing SVG" />
+<h1 align="center">Hi there 👋, I'm Dineshpandiyan P</h1>
 
-<br/>
+<p align="center">
+  🤖 <b>AI / GenAI Engineer</b> · Building production-grade intelligent systems
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dineshpandiyan-DP&color=00d4ff&style=flat-square&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Dineshpandiyan-DP?style=flat-square&color=00d4ff&label=Followers)](https://github.com/Dineshpandiyan-DP)
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-```python
-dinesh = {
-    "role"     : "Aspiring AI Engineer 🤖",
-    "location" : "Bengaluru, India 🇮🇳",
-    "focus"    : ["RAG Systems", "LLMs", "Prompt Engineering", "MLOps"],
-    "learning" : ["Deep Learning", "LangChain", "Docker", "LoRA/QLoRA"],
-    "goal"     : "Land an AI/ML Engineer role & ship production AI 🎯",
-}
-```
-
-🔭 Building **RAG pipelines & LLM apps** &nbsp;|&nbsp; 🌱 Learning **Deep Learning & MLOps** &nbsp;|&nbsp; 💡 Strong in **Prompt Engineering & Python** &nbsp;|&nbsp; 🤝 Open to **AI/ML roles**
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-%40Infosys-7F77DD?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-1D9E75?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-5%20YOE-378ADD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-D85A30?style=flat-square" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+- 🤖 AI/GenAI Engineer specializing in **RAG systems**, **AI Agents**, and **Multi-Agent architectures**
+- 🚀 Building **Clarix** — a production-grade 4-project AI suite *(RAG · Agentic RAG · Agent · Multi-Agent)* with FastAPI
+- 💻 Independently deployed AI apps on **HuggingFace Spaces**, **Streamlit Cloud**, and **GitHub**
+- 🎓 Transitioned from QA/Testing → AI Engineering through self-driven learning (Mechanical Engg. background)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [HuggingFace](https://huggingface.co/DINESHPANDIYAN) · [Streamlit](https://share.streamlit.io/user/YOUR_STREAMLIT)
 
 ---
 
-### 🚀 Projects
+## 🛠 Languages & Tools
 
-| Project | Stack | Status |
-|---|---|:---:|
-| **RAG Pipeline from Scratch** | LangChain · ChromaDB · OpenAI | 🟡 In Progress |
-| **Prompt Engineering Playbook** | Python · OpenAI API | 🟢 Building |
-| **Fine-tuning LLM (LoRA/QLoRA)** | HuggingFace · PyTorch | 🔵 Learning |
-| **AI System Design Portfolio** | Docker · FastAPI · AWS | 🔵 Planning |
+**AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-534AB7?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7F77DD?style=flat-square&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-AFA9EC?style=flat-square&logoColor=333)
+![Groq](https://img.shields.io/badge/Groq-534AB7?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FAC775?style=flat-square&logoColor=333)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-378ADD?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-185FA5?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-B5D4F4?style=flat-square&logoColor=333)
+
+**Vector DB & Data**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1D9E75?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F6E56?style=flat-square&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-9FE1CB?style=flat-square&logoColor=333)
+![NumPy](https://img.shields.io/badge/NumPy-5DCAA5?style=flat-square&logoColor=white)
+
+**Frontend / UI**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-D85A30?style=flat-square&logo=streamlit&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-378ADD?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2C2C2A?style=flat-square&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-444441?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-185FA5?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
+### 🔷 Clarix — Production AI Suite *(In Progress)*
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dineshpandiyan-DP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&hide=contribs" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshpandiyan-DP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="150"/>
+> A set of 4 production-grade AI projects built with FastAPI, demonstrating real-world GenAI engineering
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshpandiyan-DP&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" width="480"/>
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| **Clarix RAG** | Document QA system with retrieval-augmented generation | FastAPI · LangChain · ChromaDB · Groq |
+| **Clarix Agentic RAG** | RAG enhanced with agents that plan, retrieve, and reason across sources | LangChain Agents · RAG · Groq |
+| **Clarix Agent** | Standalone AI agent with tool use and memory | FastAPI · LangChain · Python |
+| **Clarix Multi-Agent** | Multi-agent orchestration with coordinator and specialist agents | FastAPI · Multi-Agent · Python |
 
 ---
 
-### 🤝 Connect
+### 🔶 Career Coach AI *(Deployed)*
 
-<div align="center">
+> LLM-powered career advisor with resume review and job guidance
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dineshpandiyan--DP-181717?style=for-the-badge&logo=github)](https://github.com/Dineshpandiyan-DP)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+- 🔗 **Frontend**: [Streamlit Cloud](https://YOUR_STREAMLIT_APP_LINK)
+- 🔗 **Backend**: [HuggingFace Spaces](https://huggingface.co/spaces/DINESHPANDIYAN/YOUR_SPACE)
+- **Stack**: FastAPI · Groq LLM · Streamlit
 
-</div>
+---
+
+### 🔶 RAG Pipeline *(Personal)*
+
+> Document ingestion and Q&A pipeline using LangChain + ChromaDB + Groq
+
+- **Stack**: LangChain · ChromaDB · Groq · Python
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dineshpandiyan-DP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshpandiyan-DP&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dineshpandiyan-DP&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshpandiyan-DP&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Dineshpandiyan-DP"><img src="https://img.shields.io/badge/GitHub-2C2C2A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://huggingface.co/DINESHPANDIYAN"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logoColor=333" /></a>
+  <a href="https://share.streamlit.io/user/YOUR_STREAMLIT"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dineshpandiyan-DP&color=7F77DD&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center"><i>"Build it. Ship it. Learn from it."</i></p>

@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Dineshpandiyan P</h1>
 
 <p align="center">
-  🤖 <b>AI / GenAI Engineer</b> · Building production-grade intelligent systems
+   <b>AI / GenAI Engineer</b> · Building production-grade intelligent systems
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🤖 AI/GenAI Engineer specializing in **RAG systems**, **AI Agents**, and **Multi-Agent architectures**
-- 🚀 Building **Clarix** — a production-grade 4-project AI suite *(RAG · Agentic RAG · Agent · Multi-Agent)* with FastAPI
-- 💻 Independently deployed AI apps on **HuggingFace Spaces**, **Streamlit Cloud**, and **GitHub**
-- 🎓 Transitioned from QA/Testing → AI Engineering through self-driven learning (Mechanical Engg. background)
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [HuggingFace](https://huggingface.co/DINESHPANDIYAN) · [Streamlit](https://share.streamlit.io/user/YOUR_STREAMLIT)
+-  AI/GenAI Engineer specializing in **RAG systems**, **AI Agents**, and **Multi-Agent architectures**
+-  Building **Clarix** — a production-grade 4-project AI suite *(RAG · Agentic RAG · Agent · Multi-Agent)* with FastAPI
+- Independently deployed AI apps on **HuggingFace Spaces**, **Streamlit Cloud**, and **GitHub**
+-  Transitioned from QA/Testing → AI Engineering through self-driven learning (Mechanical Engg. background)
+-  Reach me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [HuggingFace](https://huggingface.co/DINESHPANDIYAN) · [Streamlit](https://share.streamlit.io/user/YOUR_STREAMLIT)
 
 ---
 
